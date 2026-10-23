@@ -13,7 +13,7 @@
 // JANGAN PERNAH menaruh service_role key / secret key (sb_secret_...) di sini.
 // =====================================================================
 window.__ALAT_GURU_ENV__ = {
-  NEXT_PUBLIC_SUPABASE_URL: '',
-  NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY: '',
+  NEXT_PUBLIC_SUPABASE_URL: 'https://qpdbhvtlepqpyhauhmon.supabase.co',
+  NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY: 'sb_publishable_LSgD3W26JHaAp96AhrJxQQ_zm_NN2nq',
   NEXT_PUBLIC_SUPABASE_ANON_KEY: '',
 };
